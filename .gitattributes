@@ -1,0 +1,4 @@
+lib/libORB_SLAM2_PointMap_SegNetM.so filter=lfs diff=lfs merge=lfs -text
+Examples/ROS/ORB_SLAM2_PointMap_SegNetM/libsegmentation/segnet_test_4_1228_hhz.aocx filter=lfs diff=lfs merge=lfs -text
+Examples/ROS/ORB_SLAM2_PointMap_SegNetM/libsegmentation/conv.aocx filter=lfs diff=lfs merge=lfs -text
+reprogram_temp.sof filter=lfs diff=lfs merge=lfs -text
